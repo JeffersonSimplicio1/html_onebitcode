@@ -1,24 +1,24 @@
-root{
+:root{
     --corama:#f1c40f;
     --coraz:#2c3e50;
     --corver:#e74c3c;
 }
 
 body{
-    background-color: #2c3e50;
+    background-color: var(--coraz)
 }
 h1{
     color: white;
 }
 h3{
-    color: #f1c40f;;
+    color: var(--corama)
 }
 ul{
     color: white;
 }
 h2{
-    background-color: #f1c40f;
+    background-color: var(--corama)
 }
 #importante{
-    color: #e74c3c;
+    color: var(--corver)
 }
