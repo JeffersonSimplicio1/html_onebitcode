@@ -5,19 +5,20 @@
 }
 
 body{
-    background-color: var(--coraz)
+    background-color: var(--coraz);
 }
 h1{
     color: white;
 }
 h3{
-    color: var(--corama)
+    color: var(--corama);
 }
 ul{
     color: white;
 }
 h2{
-    background-color: var(--corama)
+    background-color: var(--corama);
+    border: 2px solid;
 }
 #importante{
     color: var(--corver)
