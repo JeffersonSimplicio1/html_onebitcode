@@ -1,0 +1,22 @@
+
+main{
+    background-color:#fffafa;
+    width: 50%;
+    height: 100%;
+    margin: auto;
+}
+h3{
+    font-family: 'roboto', sans-serif;
+    font-size: 16px;
+    color: #008080;
+}
+h1{
+    font-family: 'montserrat', sans-serif;
+}
+p{
+    font-family: 'open sans', sans-serif;
+    text-align: justify;
+}
+div{
+    padding: 30px;
+}
